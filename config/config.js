@@ -1,12 +1,12 @@
 module.exports ={
-  "development": {
+  "development1": {
     "username": "qrservice",
     "password": "qrservice",
     "database": "qrservice",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
-  development1: {
+  development: {
     dialect: "sqlite",
     storage: "./db.development.sqlite"
   },
