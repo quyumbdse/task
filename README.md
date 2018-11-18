@@ -8,7 +8,7 @@ To start backend write  --------    npm start
 
 Application Structure
 
-bin/ -this folder contains server creation and connect with express environment.
+bin/ - This folder contains server creation and connect with express environment.
 
 config/ - This folder contains configuration for configuration/environment variables.
 
@@ -17,6 +17,8 @@ controllers/ - This folder contains all business logic for API.
 models/ - This folder contains the schema definitions for our Sequelize models.
 
 routes/ - This folder contains the route definitions for our API.
+
+middleware/ -This folder contains jwt authentication process.
 
 test/ - This folder contains API Test 
 
