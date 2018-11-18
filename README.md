@@ -1,8 +1,6 @@
 # task
 NodeJS secure RESTFUL api
-      A  secure RESTFUL api for NodeJS. This project includes user login, access control of objects, and encrypted hashing of passwords right out of the box!. after analyze the provided  database design, i found this is relational database and query and  complex query is needed, i think for  complex data query (sql database is best suited ).
-
-     I have implemented using Sequelize ORM, because  Sequelize is a promise-based ORM for Node.js and io.js. It supports the dialects PostgreSQL, MySQL, MariaDB, SQLite and MSSQL and features solid transaction support, relations, read replication and more. For Development i have used SQLite, also mysql is configured in “config.js” file.
+      A  secure RESTFUL api for NodeJS. This project includes user login, access control of objects, and encrypted hashing of passwords right out of the box!
 
 Api test has been implemented using chai and mocha -----  write npm test to test the api 
 
